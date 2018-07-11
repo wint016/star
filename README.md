@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding -*-
+
 def foo1():
 	pass
 
