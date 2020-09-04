@@ -2,9 +2,9 @@
 # -*- coding -*-
 
 def foo1():
-	pass
+    pass
 
 def foo2():
-	print("hello world")
+    print("hello world")
 
 foo2()
